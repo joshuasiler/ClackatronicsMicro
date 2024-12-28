@@ -7,6 +7,6 @@ will then reboot and is ready to run.
 
 It supports the Micro module as built, and also includes display code if you attach an SSD1306 OLED display to your module using the included headers. 
 
-Also included are development resources, including the micropython runtime, SDK documentation and Python files. These are not necessary unless you wish to modify them yourself.
+Also included are development resources, including the micropython runtime, SDK documentation and Python files. These are not necessary unless you wish to modify the code yourself.
 
 Author: Joshua Siler, Signal to Noise Audio, 2024
