@@ -48,7 +48,7 @@ make clean
 make BOARD=RPI_PICO submodules
 make
 
-This process will generate a firmware.uf2 file in the build directory, which includes both the MicroPython runtime and your frozen scripts.
+This process will generate a firmware.uf2 file in the build-RPI-PICO directory, which includes both the MicroPython runtime and your frozen scripts.
 
 Deploy the Combined Firmware to the Pico:
 
